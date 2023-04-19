@@ -18,7 +18,7 @@
 <description>Google heeft twee kwetsbaarheden verholpen in Chrome.
 Van een van de kwetsbaarheden is geen CVE-id bekend gesteld.</description>
 <guid isPermaLink="false">NCSC-2023-0189 [1.00]</guid>
-<pubDate>Wen, 19 Apr 2023 11:32:27 +0200</pubDate>
+<PublishDate>Wen, 19 Apr 2023 11:32:27 +0200</pubDate>
 </item>
 <item>
 <title>NCSC-2023-0188 [1.00] [M/M] Kwetsbaarheden verholpen in Google Chrome</title>
@@ -26,14 +26,14 @@ Van een van de kwetsbaarheden is geen CVE-id bekend gesteld.</description>
 <description>Google heeft twee kwetsbaarheden verholpen in Chrome.
 Van een van de kwetsbaarheden is geen CVE-id bekend gesteld.</description>
 <guid isPermaLink="false">NCSC-2023-0188 [1.00]</guid>
-<pubDate>Mon, 17 Apr 2023 11:32:27 +0200</pubDate>
+<PublishDate>Mon, 17 Apr 2023 11:32:27 +0200</pubDate>
 </item>
 <item>
 <title>NCSC-2023-0171 [1.01] [H/M] Kwetsbaarheden verholpen in Microsoft Office</title>
 <link>https://advisories.ncsc.nl/advisory?id=NCSC-2023-0171</link>
 <description>Microsoft heeft kwetsbaarheden verholpen in diverse Office producten. Een kwaadwillende kan de kwetsbaarheden misbruiken om willekeurige code uit te voeren met rechten van het slachtoffer. De kwaadwillende moet het slachtoffer hiervoor wel misleiden een malafide bestand te openen.</description>
 <guid isPermaLink="false">NCSC-2023-0171 [1.01]</guid>
-<pubDate>Mon, 17 Apr 2023 11:23:31 +0200</pubDate>
+<PublishDate>Mon, 17 Apr 2023 11:23:31 +0200</pubDate>
 </item>
 <item>
 <title>NCSC-2023-0187 [1.00] [M/H] Kwetsbaarheden verholpen in IBM AIX</title>
@@ -41,7 +41,7 @@ Van een van de kwetsbaarheden is geen CVE-id bekend gesteld.</description>
 <description>IBM heeft kwetsbaarheden verholpen in AIX. De kwetsbaarheden stellen een lokale, geauthenticeerde gebruiker in staat om willekeurige commando&#x27;s uit te voeren op het systeem. Ook welke waarvoor de kwaadwillende aanvankelijk niet voor is geautoriseerd.
 </description>
 <guid isPermaLink="false">NCSC-2023-0187 [1.00]</guid>
-<pubDate>Thu, 13 Apr 2023 14:56:28 +0200</pubDate>
+<PublishDate>Thu, 13 Apr 2023 14:56:28 +0200</pubDate>
 </item>
 <item>
 <title>NCSC-2023-0186 [1.00] [M/H] Kwetsbaarheden verholpen in Juniper JunOS</title>
@@ -55,7 +55,7 @@ Omzeilen van beveiligingsmaatregel
 Toegang tot systeemgegevens
 </description>
 <guid isPermaLink="false">NCSC-2023-0186 [1.00]</guid>
-<pubDate>Thu, 13 Apr 2023 14:56:04 +0200</pubDate>
+<PublishDate>Thu, 13 Apr 2023 14:56:04 +0200</pubDate>
 </item>
 <item>
 <title>NCSC-2023-0185 [1.00] [M/M] Kwetsbaarheden verholpen in Autodesk AutoCad</title>
@@ -63,7 +63,7 @@ Toegang tot systeemgegevens
 <description>Autodesk heeft kwetsbaarheden verholpen in AutoCad. Een kwaadwillende kan de kwetsbaarheden misbruiken om een Denial-of-Service te veroorzaken, of mogelijk code uit te voeren met rechten van de gebruiker. De kwaadwillende moet hiervoor het slachtoffer misleiden een malafide X_B-bestand te openen.
 </description>
 <guid isPermaLink="false">NCSC-2023-0185 [1.00]</guid>
-<pubDate>Thu, 13 Apr 2023 14:55:46 +0200</pubDate>
+<PublishDate>Thu, 13 Apr 2023 14:55:46 +0200</pubDate>
 </item>
 <item>
 <title>NCSC-2023-0184 [1.00] [M/M] Kwetsbaarheden verholpen in Schneider Electric EcoStruxture Control Expert</title>
@@ -71,7 +71,7 @@ Toegang tot systeemgegevens
 <description>Schneider Electric heeft kwetsbaarheden verholpen in EcoStruxture Control Expert. Een kwaadwillende kan de kwetsbaarheden misbruiken om een Denial-of-Service te veroorzaken, of om willekeurige code uit te voeren op de kwetsbare omgeving. De kwaadwillende moet hiervoor wel toegang hebben tot de productie-omgeving. Het is goed gebruik een dergelijke omgeving niet publiek toegankelijk te hebben.
 </description>
 <guid isPermaLink="false">NCSC-2023-0184 [1.00]</guid>
-<pubDate>Wed, 12 Apr 2023 14:44:02 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:44:02 +0200</pubDate>
 </item>
 <item>
 <title>NCSC-2023-0183 [1.00] [M/M] Kwetsbaarheden verholpen in Schneider Electric Modicon componenten</title>
@@ -79,7 +79,7 @@ Toegang tot systeemgegevens
 <description>Schneider Electric heeft kwetsbaarheden verholpen in diverse Modicon componenten. Een kwaadwillende kan de kwetsbaarheden misbruiken om een Denial-of-Service te veroorzaken, of om de werking van de kwetsbare componenten te manipuleren. De kwaadwillende dient hiervoor wel toegang te hebben tot de productie-omgeving. Het is goed gebruik een dergelijke omgeving niet publiek toegankelijk te hebben.
 </description>
 <guid isPermaLink="false">NCSC-2023-0183 [1.00]</guid>
-<pubDate>Wed, 12 Apr 2023 14:43:40 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:43:40 +0200</pubDate>
 </item>
 <item>
 <title>NCSC-2023-0182 [1.00] [M/M] Kwetsbaarheid verholpen in Adobe Digital Editions</title>
@@ -87,7 +87,7 @@ Toegang tot systeemgegevens
 <description>Adobe heeft een kwetsbaarheid verholpen in Digital Editions. Een kwaadwillende kan de kwetsbaarheid misbruiken om willekeurige code uit te voeren. De kwaadwillende moet hiervoor het slachtoffer misleiden een malafide bestand te openen.
 </description>
 <guid isPermaLink="false">NCSC-2023-0182 [1.00]</guid>
-<pubDate>Wed, 12 Apr 2023 14:43:21 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:43:21 +0200</pubDate>
 </item>
 <item>
 <title>NCSC-2023-0181 [1.00] [M/M] Kwetsbaarheid verholpen in Adobe InCopy</title>
