@@ -10,14 +10,14 @@
 <description>Beveiligingsadviezen van het NCSC aan organisaties in de vitale sector</description>
 <language>nl-NL</language>
 <copyright>Copyright 2023 - NCSC-NL</copyright>
-<lastBuildDate>Wed, 19 Apr 2023 08:18:54 +0200</lastBuildDate>
+<lastBuildDate>Wed, 19 Apr 2023 08:19:54 +0200</lastBuildDate>
 <webMaster>taranis@ncsc.nl</webMaster>
 <item>
 <title>NCSC-2023-0188 [1.00] [M/M] Kwetsbaarheden verholpen in Google Chrome</title>
 <link>https://advisories.ncsc.nl/advisory?id=NCSC-2023-0188</link>
 <description>Google heeft twee kwetsbaarheden verholpen in Chrome.
 Van een van de kwetsbaarheden is geen CVE-id bekend gesteld.</description>
-<guid isPermaLink="false">NCSC-2023-0188 [1.00]</guid>
+<guid isPermaLink="false">NCSC-2023-0189 [1.00]</guid>
 <pubDate>Wen, 19 Apr 2023 11:32:27 +0200</pubDate>
 </item>
 <item>
