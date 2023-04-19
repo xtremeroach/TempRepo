@@ -18,7 +18,7 @@
 <description>Google heeft twee kwetsbaarheden verholpen in Chrome.
 Van een van de kwetsbaarheden is geen CVE-id bekend gesteld.</description>
 <guid isPermaLink="false">NCSC-2023-0190 [1.00]</guid>
-<PublishDate>Wen, 19 Apr 2023 08:35:27 +0200</pubDate>
+<PublishDate>Wen, 19 Apr 2023 08:35:27 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0188 [1.00] [M/M] Kwetsbaarheden verholpen in Google Chrome</title>
@@ -26,7 +26,7 @@ Van een van de kwetsbaarheden is geen CVE-id bekend gesteld.</description>
 <description>Google heeft twee kwetsbaarheden verholpen in Chrome.
 Van een van de kwetsbaarheden is geen CVE-id bekend gesteld.</description>
 <guid isPermaLink="false">NCSC-2023-0189 [1.00]</guid>
-<PublishDate>Wen, 19 Apr 2023 11:32:27 +0200</pubDate>
+<PublishDate>Wen, 19 Apr 2023 11:32:27 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0188 [1.00] [M/M] Kwetsbaarheden verholpen in Google Chrome</title>
@@ -34,14 +34,14 @@ Van een van de kwetsbaarheden is geen CVE-id bekend gesteld.</description>
 <description>Google heeft twee kwetsbaarheden verholpen in Chrome.
 Van een van de kwetsbaarheden is geen CVE-id bekend gesteld.</description>
 <guid isPermaLink="false">NCSC-2023-0188 [1.00]</guid>
-<PublishDate>Mon, 17 Apr 2023 11:32:27 +0200</pubDate>
+<PublishDate>Mon, 17 Apr 2023 11:32:27 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0171 [1.01] [H/M] Kwetsbaarheden verholpen in Microsoft Office</title>
 <link>https://advisories.ncsc.nl/advisory?id=NCSC-2023-0171</link>
 <description>Microsoft heeft kwetsbaarheden verholpen in diverse Office producten. Een kwaadwillende kan de kwetsbaarheden misbruiken om willekeurige code uit te voeren met rechten van het slachtoffer. De kwaadwillende moet het slachtoffer hiervoor wel misleiden een malafide bestand te openen.</description>
 <guid isPermaLink="false">NCSC-2023-0171 [1.01]</guid>
-<PublishDate>Mon, 17 Apr 2023 11:23:31 +0200</pubDate>
+<PublishDate>Mon, 17 Apr 2023 11:23:31 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0187 [1.00] [M/H] Kwetsbaarheden verholpen in IBM AIX</title>
@@ -49,7 +49,7 @@ Van een van de kwetsbaarheden is geen CVE-id bekend gesteld.</description>
 <description>IBM heeft kwetsbaarheden verholpen in AIX. De kwetsbaarheden stellen een lokale, geauthenticeerde gebruiker in staat om willekeurige commando&#x27;s uit te voeren op het systeem. Ook welke waarvoor de kwaadwillende aanvankelijk niet voor is geautoriseerd.
 </description>
 <guid isPermaLink="false">NCSC-2023-0187 [1.00]</guid>
-<PublishDate>Thu, 13 Apr 2023 14:56:28 +0200</pubDate>
+<PublishDate>Thu, 13 Apr 2023 14:56:28 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0186 [1.00] [M/H] Kwetsbaarheden verholpen in Juniper JunOS</title>
@@ -63,7 +63,7 @@ Omzeilen van beveiligingsmaatregel
 Toegang tot systeemgegevens
 </description>
 <guid isPermaLink="false">NCSC-2023-0186 [1.00]</guid>
-<PublishDate>Thu, 13 Apr 2023 14:56:04 +0200</pubDate>
+<PublishDate>Thu, 13 Apr 2023 14:56:04 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0185 [1.00] [M/M] Kwetsbaarheden verholpen in Autodesk AutoCad</title>
@@ -71,7 +71,7 @@ Toegang tot systeemgegevens
 <description>Autodesk heeft kwetsbaarheden verholpen in AutoCad. Een kwaadwillende kan de kwetsbaarheden misbruiken om een Denial-of-Service te veroorzaken, of mogelijk code uit te voeren met rechten van de gebruiker. De kwaadwillende moet hiervoor het slachtoffer misleiden een malafide X_B-bestand te openen.
 </description>
 <guid isPermaLink="false">NCSC-2023-0185 [1.00]</guid>
-<PublishDate>Thu, 13 Apr 2023 14:55:46 +0200</pubDate>
+<PublishDate>Thu, 13 Apr 2023 14:55:46 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0184 [1.00] [M/M] Kwetsbaarheden verholpen in Schneider Electric EcoStruxture Control Expert</title>
@@ -79,7 +79,7 @@ Toegang tot systeemgegevens
 <description>Schneider Electric heeft kwetsbaarheden verholpen in EcoStruxture Control Expert. Een kwaadwillende kan de kwetsbaarheden misbruiken om een Denial-of-Service te veroorzaken, of om willekeurige code uit te voeren op de kwetsbare omgeving. De kwaadwillende moet hiervoor wel toegang hebben tot de productie-omgeving. Het is goed gebruik een dergelijke omgeving niet publiek toegankelijk te hebben.
 </description>
 <guid isPermaLink="false">NCSC-2023-0184 [1.00]</guid>
-<PublishDate>Wed, 12 Apr 2023 14:44:02 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:44:02 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0183 [1.00] [M/M] Kwetsbaarheden verholpen in Schneider Electric Modicon componenten</title>
@@ -87,7 +87,7 @@ Toegang tot systeemgegevens
 <description>Schneider Electric heeft kwetsbaarheden verholpen in diverse Modicon componenten. Een kwaadwillende kan de kwetsbaarheden misbruiken om een Denial-of-Service te veroorzaken, of om de werking van de kwetsbare componenten te manipuleren. De kwaadwillende dient hiervoor wel toegang te hebben tot de productie-omgeving. Het is goed gebruik een dergelijke omgeving niet publiek toegankelijk te hebben.
 </description>
 <guid isPermaLink="false">NCSC-2023-0183 [1.00]</guid>
-<PublishDate>Wed, 12 Apr 2023 14:43:40 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:43:40 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0182 [1.00] [M/M] Kwetsbaarheid verholpen in Adobe Digital Editions</title>
@@ -95,7 +95,7 @@ Toegang tot systeemgegevens
 <description>Adobe heeft een kwetsbaarheid verholpen in Digital Editions. Een kwaadwillende kan de kwetsbaarheid misbruiken om willekeurige code uit te voeren. De kwaadwillende moet hiervoor het slachtoffer misleiden een malafide bestand te openen.
 </description>
 <guid isPermaLink="false">NCSC-2023-0182 [1.00]</guid>
-<PublishDate>Wed, 12 Apr 2023 14:43:21 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:43:21 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0181 [1.00] [M/M] Kwetsbaarheid verholpen in Adobe InCopy</title>
@@ -103,7 +103,7 @@ Toegang tot systeemgegevens
 <description>Adobe heeft een kwetsbaarheid verholpen in InCopy. Een kwaadwillende kan de kwetsbaarheid misbruiken om willekeurige code uit te voeren met rechten van het slachtoffer. De kwaadwillende moet hiervoor het slachtoffer misleiden een malafide bestand te openen.
 </description>
 <guid isPermaLink="false">NCSC-2023-0181 [1.00]</guid>
-<pubDate>Wed, 12 Apr 2023 14:43:00 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:43:00 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0180 [1.00] [L/H] Kwetsbaarheden verholpen in Adobe Acrobat en Acrobat Reader</title>
@@ -116,7 +116,7 @@ Toegang tot gevoelige gegevens
 Verhoogde gebruikersrechten
 </description>
 <guid isPermaLink="false">NCSC-2023-0180 [1.00]</guid>
-<pubDate>Wed, 12 Apr 2023 14:42:35 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:42:35 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0179 [1.00] [M/H] Kwetsbaarheden verholpen in Adobe Dimension</title>
@@ -124,7 +124,7 @@ Verhoogde gebruikersrechten
 <description>Adobe heeft kwetsbaarheden verholpen in Dimension. Een kwaadwillende kan de kwetsbaarheden misbruiken om toegang te krijgen tot gevoelige gegevens in de context van het slachtoffer, of om willekeurige code uit te voeren met rechten van het slachtoffer. De kwaadwillende moet hiervoor het slachtoffer misleiden een malafide bestand te openen.
 </description>
 <guid isPermaLink="false">NCSC-2023-0179 [1.00]</guid>
-<pubDate>Wed, 12 Apr 2023 14:42:08 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:42:08 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0178 [1.00] [M/H] Kwetsbaarheden verholpen in Fortinet FortiClient</title>
@@ -132,7 +132,7 @@ Verhoogde gebruikersrechten
 <description>Fortinet heeft kwetsbaarheden verholpen in de FortiClient. Een lokale kwaadwillende kan de kwetsbaarheden misbruiken om zichzelf verhoogde rechten toe te kennen, willekeurige bestanden aan te kunnen maken op het onderliggende systeem en mogelijk willekeurige code uit te voeren.
 </description>
 <guid isPermaLink="false">NCSC-2023-0178 [1.00]</guid>
-<pubDate>Wed, 12 Apr 2023 14:41:43 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:41:43 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0177 [1.00] [M/H] Kwetsbaarheden verholpen in Fortinet FortiSandbox</title>
@@ -140,21 +140,21 @@ Verhoogde gebruikersrechten
 <description>Fortinet heeft kwetsbaarheden verholpen in FortiSandbox. Een geauthenticeerde kwaadwillende kan de kwetsbaarheden misbruiken om willekeurige code uit te voeren, of om toegang te krijgen tot gevoelige gegevens vanuit het onderliggende systeem.
 </description>
 <guid isPermaLink="false">NCSC-2023-0177 [1.00]</guid>
-<pubDate>Wed, 12 Apr 2023 14:41:13 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:41:13 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0176 [1.00] [M/H] Kwetsbaarheden verholpen in FortiOS en FortiProxy</title>
 <link>https://advisories.ncsc.nl/advisory?id=NCSC-2023-0176</link>
 <description>Fortinet heeft kwetsbaarheden verholpen in FortiOS en FortiProxy. Een kwaadwillende met toegang tot de management-interface kan de kwetsbaarheid met kenmerk CVE-2022-41330 misbruiken voor het uitvoeren van een Cross-Site-scripting-aanval (XSS). Een dergelijke aanval kan leiden tot uitvoer van willekeurige code in de context van de browser van het slachtoffer.</description>
 <guid isPermaLink="false">NCSC-2023-0176 [1.00]</guid>
-<pubDate>Wed, 12 Apr 2023 14:40:52 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:40:52 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0175 [1.00] [M/H] Kwetsbaarheden verholpen in Fortinet FortiWeb en FortiADC</title>
 <link>https://advisories.ncsc.nl/advisory?id=NCSC-2023-0175</link>
 <description>Fortinet heeft kwetsbaarheden verholpen in FortiWeb en FortiADC. Een kwaadwillende kan de kwetsbaarheid met kenmerk CVE-2022-43955 misbruiken voor het uitvoeren van een Cross-Site-scripting-aanval (XSS) op de webinterface van de kwetsbare systemen. Een dergelijke aanval kan leiden tot uitvoer van code binnen de context van de browser van het slachtoffer.</description>
 <guid isPermaLink="false">NCSC-2023-0175 [1.00]</guid>
-<pubDate>Wed, 12 Apr 2023 14:40:34 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:40:34 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0174 [1.00] [M/M] Kwetsbaarheden verholpen in Mozilla Firefox en Thunderbird</title>
@@ -169,28 +169,28 @@ Toegang tot systeemgegevens
 
 </description>
 <guid isPermaLink="false">NCSC-2023-0174 [1.00]</guid>
-<pubDate>Wed, 12 Apr 2023 14:40:08 +0200</pubDate>
+<PublishDate>Wed, 12 Apr 2023 14:40:08 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0173 [1.00] [M/M] Kwetsbaarheden verholpen in Microsoft Azure</title>
 <link>https://advisories.ncsc.nl/advisory?id=NCSC-2023-0173</link>
 <description>Microsoft heeft kwetsbaarheden verholpen in de Azure componenten Service Connector en Machine Learning. Een kwaadwillende kan de kwetsbaarheden misbruiken om interne firewall-rules te omzeilen, of om toegang te krijgen tot gegevens uit de logging. De kwaadwillende dient hiervoor geauthenticeerd te zijn met de juiste autorisaties.</description>
 <guid isPermaLink="false">NCSC-2023-0173 [1.00]</guid>
-<pubDate>Tue, 11 Apr 2023 19:19:01 +0200</pubDate>
+<PublishDate>Tue, 11 Apr 2023 19:19:01 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0172 [1.00] [M/H] Kwetsbaarheden verholpen in Microsoft SQL Server</title>
 <link>https://advisories.ncsc.nl/advisory?id=NCSC-2023-0172</link>
 <description>Microsoft heeft kwetsbaarheden verholpen in MS SQL Server. De kwetsbaarheden stellen een kwaadwillende in staat om willekeurige code uit te voeren met rechten van SYSTEM. Om de kwetsbaarheden te misbruiken moet de kwaadwillende een gebruiker van SQL Server verleiden een malafide query te openen en uit te voeren. De kwetsbaarheden met kenmerk CVE-2023-23375 en CVE-2023-28304 kunnen worden misbruikt wanneer gebruik wordt gemaakt van een verouderde ODBC. De huidige versie ODBC 17 heeft maatregelen die misbruik voorkomen.</description>
 <guid isPermaLink="false">NCSC-2023-0172 [1.00]</guid>
-<pubDate>Tue, 11 Apr 2023 19:19:00 +0200</pubDate>
+<PublishDate>Tue, 11 Apr 2023 19:19:00 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0170 [1.00] [M/H] Kwetsbaarheden verholpen in Microsoft Developer Tools</title>
 <link>https://advisories.ncsc.nl/advisory?id=NCSC-2023-0170</link>
 <description>Microsoft heeft kwetsbaarheden verholpen in Microsoft Developer Tools. Een kwaadwillende kan de kwetsbaarheden misbruiken voor het verkrijgen van toegang tot gevoelige gegevens, verkrijgen van verhoogde rechten of het uitvoeren van willekeurige code. Hiertoe dient de kwaadwillende toegang te hebben tot een systeem waarop de kwetsbare applicaties zijn ge&#xEF;nstalleerd of moet een slachtoffer ertoe worden verleid bepaalde handelingen te verrichten, zoals het openen van een malafide bestand.</description>
 <guid isPermaLink="false">NCSC-2023-0170 [1.00]</guid>
-<pubDate>Tue, 11 Apr 2023 19:17:23 +0200</pubDate>
+<PublishDate>Tue, 11 Apr 2023 19:17:23 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0169 [1.00] [M/H] Kwetsbaarheden verholpen in Microsoft Windows</title>
@@ -206,21 +206,21 @@ Toegang tot systeemgegevens
 Verhoogde gebruikersrechten
 </description>
 <guid isPermaLink="false">NCSC-2023-0169 [1.00]</guid>
-<pubDate>Tue, 11 Apr 2023 19:17:16 +0200</pubDate>
+<PublishDate>Tue, 11 Apr 2023 19:17:16 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0168 [1.00] [M/M] Kwetsbaarheid verholpen in Microsoft Defender</title>
 <link>https://advisories.ncsc.nl/advisory?id=NCSC-2023-0168</link>
 <description>Microsoft heeft een kwetsbaarheid verholpen in Defender. De kwetsbaarheid stelt een kwaadwillende in staat om een denial-of-service te veroorzaken.</description>
 <guid isPermaLink="false">NCSC-2023-0168 [1.00]</guid>
-<pubDate>Tue, 11 Apr 2023 19:17:03 +0200</pubDate>
+<PublishDate>Tue, 11 Apr 2023 19:17:03 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0167 [1.00] [M/H] Kwetsbaarheden verholpen in Microsoft Dynamics</title>
 <link>https://advisories.ncsc.nl/advisory?id=NCSC-2023-0167</link>
 <description>Microsoft heeft kwetsbaarheden verholpen in Dynamics 365. Een kwaadwillende op afstand kan de kwetsbaarheden misbruiken voor een Cross-Site-scripting-aanval. Een dergelijke aanval kan leiden tot uitvoer van code in de context van de browser van het slachtoffer en daarmee mogelijk toegang tot gevoelige gegevens.</description>
 <guid isPermaLink="false">NCSC-2023-0167 [1.00]</guid>
-<pubDate>Tue, 11 Apr 2023 19:16:41 +0200</pubDate>
+<PublishDate>Tue, 11 Apr 2023 19:16:41 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0161 [1.01] [M/H] Kwetsbaarheden verholpen in Google Chrome en Microsoft Edge</title>
@@ -233,7 +233,7 @@ Omzeilen van beveiligingsmaatregel
 Toegang tot gevoelige gegevens
 </description>
 <guid isPermaLink="false">NCSC-2023-0161 [1.01]</guid>
-<pubDate>Tue, 11 Apr 2023 19:16:39 +0200</pubDate>
+<PublishDate>Tue, 11 Apr 2023 19:16:39 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0166 [1.00] [M/H] Kwetsbaarheden verholpen in SAP producten</title>
@@ -250,7 +250,7 @@ Toegang tot gevoelige gegevens
 Verhoogde gebruikersrechten
 </description>
 <guid isPermaLink="false">NCSC-2023-0166 [1.00]</guid>
-<pubDate>Tue, 11 Apr 2023 15:06:47 +0200</pubDate>
+<PublishDate>Tue, 11 Apr 2023 15:06:47 +0200</PublishDate>
 </item>
 <item>
 <title>NCSC-2023-0165 [1.00] [M/H] Kwetsbaarheden verholpen in HP Laserjet printers en multifunctionals</title>
@@ -258,7 +258,7 @@ Verhoogde gebruikersrechten
 <description>Hewlett Packard heeft kwetsbaarheden verholpen in de firmware van diverse HP Laserjet, Color Laserjet en Laserjet Pro printers en multifunctionals. Een ongeauthenticeerde kwaadwillende met toegang tot het lokale netwerk kan de kwetsbaarheden misbruiken om een Denial-of-Service te veroorzaken, of om willekeurige code uit te voeren op het kwetsbare systeem.
 </description>
 <guid isPermaLink="false">NCSC-2023-0165 [1.00]</guid>
-<pubDate>Tue, 11 Apr 2023 13:22:33 +0200</pubDate>
+<PublishDate>Tue, 11 Apr 2023 13:22:33 +0200</PublishDate>
 </item>
 </channel>
 </rss>
